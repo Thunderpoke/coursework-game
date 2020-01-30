@@ -41,12 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
-    uniqueID: 1920455193
+  - name: Mountains
+    uniqueID: 3324647313
+    locked: 0
+  - name: Backback
+    uniqueID: 153947211
     locked: 0
   - name: Background
     uniqueID: 563596381
     locked: 0
   - name: Foreground
     uniqueID: 2266683645
+    locked: 0
+  - name: Player
+    uniqueID: 1920455193
     locked: 0
